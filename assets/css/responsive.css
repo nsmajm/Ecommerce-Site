@@ -35,6 +35,11 @@
     .contact_call {
 	display: none;
 }
+      .navbar-inverse .navbar-toggle {
+    border-color: #333;
+    float: left;
+    margin-left: 10px;
+}
   .navbar-center>li>a:hover {
      margin-top: 0px;
 	 border-bottom: 6px solid #1fc0a0;
@@ -194,5 +199,9 @@ h3{
     .right_featured_content h4{
         display: none;
     }
+    .featured_look_book {
+	display: none;
+}
+  
 }
 
