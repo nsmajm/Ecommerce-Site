@@ -322,7 +322,7 @@ h3{
    
 }
 .fade-carousel .slides .slide-1{
-    background: url(../img/slide-1_x1024.jpg);
+    background-image: url(../img/slide-2_x1024.jpg);
     height: 100%; 
     background-position: center 50;
     background-repeat: no-repeat;
